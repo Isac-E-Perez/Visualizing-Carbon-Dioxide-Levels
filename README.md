@@ -24,6 +24,7 @@ First, I removed the scientific notation for better readability. Afterwards I cr
 <img width="908" alt="Screen Shot 2021-11-06 at 5 08 30 PM" src="https://user-images.githubusercontent.com/89553126/140625146-d53aa108-6370-4a79-8358-7bbc512bdc9a.png">
  
  **NOAA Plot**
+ 
 <img width="692" alt="Screen Shot 2021-11-06 at 5 01 20 PM" src="https://user-images.githubusercontent.com/89553126/140625047-bfa10708-64f5-45a2-ad74-c78eb51db21e.png">
  
 <img width="692" alt="Screen Shot 2021-11-06 at 5 05 31 PM" src="https://user-images.githubusercontent.com/89553126/140625093-d3832106-3c62-46e3-9dbf-7d83b29cf1bd.png">
