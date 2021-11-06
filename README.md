@@ -27,7 +27,7 @@ First, I removed the scientific notation for better readability. Afterwards, I v
  
 <img width="692" alt="Screen Shot 2021-11-06 at 5 01 20 PM" src="https://user-images.githubusercontent.com/89553126/140625047-bfa10708-64f5-45a2-ad74-c78eb51db21e.png">
  
-Similarily, I did the same for the IAC data. However, I also obtained the CO2_ppmv max in the NOAA data set and set it equal to the variable millenia max which I used for the IAC plot.
+Similarily, I did the same for the IAC data. However, I also obtained the CO2_ppmv max in the NOAA data set and set it equal to the variable millennia_max which I used for the IAC plot.
 
 <img width="979" alt="Screen Shot 2021-11-06 at 5 10 59 PM" src="https://user-images.githubusercontent.com/89553126/140625191-766e0417-5436-4399-8dfd-7b2d4c1dd720.png">
  
