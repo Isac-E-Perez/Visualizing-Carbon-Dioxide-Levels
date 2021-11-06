@@ -16,3 +16,9 @@ In order to understand the information in these datasets, it’s important to un
 
 - The metric for carbon dioxide level is measured as parts per million or CO2 ppmv. This number describes the number of carbon dioxide molecules per one million gas molecules in our atmosphere.
 - The second metric describes years before present, which is “a time scale used mainly in … scientific disciplines to specify when events occurred in the past… standard practice is to use 1 January 1950 as the commencement date of the age scale, reflecting the origin of practical radiocarbon dating in the 1950s. The abbreviation “BP” has alternatively been interpreted as “Before Physics” that is, before nuclear weapons testing artificially altered the proportion of the carbon isotopes in the atmosphere, making dating after that time likely to be unreliable.” This means that saying “the year 20 BP” would be the equivalent of saying “The year 1930.”
+
+### Results: 
+
+<img width="692" alt="Screen Shot 2021-11-06 at 5 01 20 PM" src="https://user-images.githubusercontent.com/89553126/140625047-bfa10708-64f5-45a2-ad74-c78eb51db21e.png">
+
+<img width="692" alt="Screen Shot 2021-11-06 at 5 01 45 PM" src="https://user-images.githubusercontent.com/89553126/140625048-a73132ae-3cc6-47cc-9657-8aa7067b9cd2.png">
