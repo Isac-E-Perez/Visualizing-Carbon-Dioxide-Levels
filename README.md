@@ -20,5 +20,5 @@ In order to understand the information in these datasets, it’s important to un
 ### Results: 
 
 <img width="692" alt="Screen Shot 2021-11-06 at 5 01 20 PM" src="https://user-images.githubusercontent.com/89553126/140625047-bfa10708-64f5-45a2-ad74-c78eb51db21e.png">
-
-<img width="692" alt="Screen Shot 2021-11-06 at 5 01 45 PM" src="https://user-images.githubusercontent.com/89553126/140625048-a73132ae-3cc6-47cc-9657-8aa7067b9cd2.png">
+ 
+<img width="692" alt="Screen Shot 2021-11-06 at 5 05 31 PM" src="https://user-images.githubusercontent.com/89553126/140625093-d3832106-3c62-46e3-9dbf-7d83b29cf1bd.png">
